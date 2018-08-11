@@ -1,0 +1,610 @@
+{
+    "trainees": [
+        {
+            "name": "Miyawaki Sakura",
+            "ranking": [
+                1, 90
+            ]
+        },
+        {
+            "name": "Anju",
+            "ranking": [
+                2, 3
+            ]
+        },
+        {
+            "name": "Jang Won Young",
+            "ranking": [
+                3
+            ]
+        },
+        {
+            "name": "Matsui Jurina",
+            "ranking": [
+                4
+            ]
+        },
+        {
+            "name": "Iga",
+            "ranking": [
+                5
+            ]
+        },
+        {
+            "name": "Jang Gi-ri",
+            "ranking": [
+                6
+            ]
+        },
+        {
+            "name": "Choi",
+            "ranking": [
+                7
+            ]
+        },
+        {
+            "name": "Lee Xian",
+            "ranking": [
+                8
+            ]
+        },
+        {
+            "name": "Shiro Mamiru",
+            "ranking": [
+                9
+            ]
+        },
+        {
+            "name": "Joe Yuri",
+            "ranking": [
+                10
+            ]
+        },
+        {
+            "name": "King Wow",
+            "ranking": [
+                11
+            ]
+        },
+        {
+            "name": "Kojima Mako",
+            "ranking": [
+                12
+            ]
+        },
+        {
+            "name": "KIM Min-ju",
+            "ranking": [
+                13
+            ]
+        },
+        {
+            "name": "Yabuki Naco",
+            "ranking": [
+                14
+            ]
+        },
+        {
+            "name": "Kim, Si-Hyun",
+            "ranking": [
+                15
+            ]
+        },
+        {
+            "name": "Gotomoe",
+            "ranking": [
+                16
+            ]
+        },
+        {
+            "name": "Miyazaki Miho",
+            "ranking": [
+                17
+            ]
+        },
+        {
+            "name": "times Eun Young",
+            "ranking": [
+                18
+            ]
+        },
+        {
+            "name": "",
+            "ranking": [
+                19
+            ]
+        },
+        {
+            "name": "Juri Takahashi",
+            "ranking": [
+                20
+            ]
+        },
+        {
+            "name": "Kim Chae Won",
+            "ranking": [
+                21
+            ]
+        },
+        {
+            "name": "Nakanishishi cuisine",
+            "ranking": [
+                22
+            ]
+        },
+        {
+            "name": "Muto Toomu",
+            "ranking": [
+                23
+            ]
+        },
+        {
+            "name": "Isuzu",
+            "ranking": [
+                24
+            ]
+        },
+        {
+            "name": "th Edition",
+            "ranking": [
+                25
+            ]
+        },
+        {
+            "name": "Asami Nanami",
+            "ranking": [
+                26
+            ]
+        },
+        {
+            "name": "Chiba Eriyu",
+            "ranking": [
+                27
+            ]
+        },
+        {
+            "name": "Murakawa and Vivienne",
+            "ranking": [
+                28
+            ]
+        },
+        {
+            "name": "Lee Chae Yeon",
+            "ranking": [
+                29
+            ]
+        },
+        {
+            "name": "Hitomi Honda",
+            "ranking": [
+                30
+            ]
+        },
+        {
+            "name": "Kim Doo-a",
+            "ranking": [
+                31
+            ]
+        },
+        {
+            "name": "To Murase Temple",
+            "ranking": [
+                32
+            ]
+        },
+        {
+            "name": "Reason",
+            "ranking": [
+                33
+            ]
+        },
+        {
+            "name": "Park Seo Young",
+            "ranking": [
+                34
+            ]
+        },
+        {
+            "name": "Natsumi Matsuoka",
+            "ranking": [
+                35
+            ]
+        },
+        {
+            "name": "Nagoya",
+            "ranking": [
+                36
+            ]
+        },
+        {
+            "name": "Motomura Aoi",
+            "ranking": [
+                37
+            ]
+        },
+        {
+            "name": "Kang Hye-won",
+            "ranking": [
+                38
+            ]
+        },
+        {
+            "name": "Takeuchi Miyu",
+            "ranking": [
+                39
+            ]
+        },
+        {
+            "name": "Yoonhaesol",
+            "ranking": [
+                40
+            ]
+        },
+        {
+            "name": "Shitaomi",
+            "ranking": [
+                41
+            ]
+        },
+        {
+            "name": "Shin Soo Hyun",
+            "ranking": [
+                42
+            ]
+        },
+        {
+            "name": "Nakano Ikumi",
+            "ranking": [
+                43
+            ]
+        },
+        {
+            "name": "Mosquito Shinobu",
+            "ranking": [
+                44
+            ]
+        },
+        {
+            "name": "Yamadano",
+            "ranking": [
+                45
+            ]
+        },
+        {
+            "name": "Iwata Te Shoho",
+            "ranking": [
+                46
+            ]
+        },
+        {
+            "name": "Choi Yeon Su",
+            "ranking": [
+                47
+            ]
+        },
+        {
+            "name": "Kim So-hee",
+            "ranking": [
+                48
+            ]
+        },
+        {
+            "name": "Park Min-ji",
+            "ranking": [
+                49
+            ]
+        },
+        {
+            "name": "Aromaki Misaki",
+            "ranking": [
+                50
+            ]
+        },
+        {
+            "name": "Below",
+            "ranking": [
+                51
+            ]
+        },
+        {
+            "name": "Park Jin Hee",
+            "ranking": [
+                52
+            ]
+        },
+        {
+            "name": "Imadami",
+            "ranking": [
+                53
+            ]
+        },
+        {
+            "name": "Yoon Eun Bin",
+            "ranking": [
+                54
+            ]
+        },
+        {
+            "name": "Kim Na Young",
+            "ranking": [
+                55
+            ]
+        },
+        {
+            "name": "Oda Elina",
+            "ranking": [
+                56
+            ]
+        },
+        {
+            "name": "Satominami",
+            "ranking": [
+                57
+            ]
+        },
+        {
+            "name": "Kim Soo-yun",
+            "ranking": [
+                58
+            ]
+        },
+        {
+            "name": "Park, Hae Yoon",
+            "ranking": [
+                59
+            ]
+        },
+        {
+            "name": "Kim Dae-yeon",
+            "ranking": [
+                60
+            ]
+        },
+        {
+            "name": "Hasegawa Lena",
+            "ranking": [
+                61
+            ]
+        },
+        {
+            "name": "Kim Min Seo",
+            "ranking": [
+                62
+            ]
+        },
+        {
+            "name": "Tanaka Miku",
+            "ranking": [
+                63
+            ]
+        },
+        {
+            "name": "one second",
+            "ranking": [
+                64
+            ]
+        },
+        {
+            "name": "Cho",
+            "ranking": [
+                65
+            ]
+        },
+        {
+            "name": "Lee Seung-hyun",
+            "ranking": [
+                66
+            ]
+        },
+        {
+            "name": "Hyun-Ah Kim",
+            "ranking": [
+                67
+            ]
+        },
+        {
+            "name": "Kim Soon-yeon",
+            "ranking": [
+                68
+            ]
+        },
+        {
+            "name": "Asai Yuuka",
+            "ranking": [
+                69
+            ]
+        },
+        {
+            "name": "th Darden",
+            "ranking": [
+                70
+            ]
+        },
+        {
+            "name": "Kato Yuuka",
+            "ranking": [
+                71
+            ]
+        },
+        {
+            "name": "Nagano Sera",
+            "ranking": [
+                72
+            ]
+        },
+        {
+            "name": "to Kurihara-shi",
+            "ranking": [
+                73
+            ]
+        },
+        {
+            "name": "Cho Young-in",
+            "ranking": [
+                74
+            ]
+        },
+        {
+            "name": "Nike Kokoro",
+            "ranking": [
+                75
+            ]
+        },
+        {
+            "name": "Hong Yiji",
+            "ranking": [
+                76
+            ]
+        },
+        {
+            "name": "Park Ji Eun",
+            "ranking": [
+                77
+            ]
+        },
+        {
+            "name": "Tsukiashiyamae",
+            "ranking": [
+                78
+            ]
+        },
+        {
+            "name": "Manami Ichikawa",
+            "ranking": [
+                79
+            ]
+        },
+        {
+            "name": "Dae Hye Kim",
+            "ranking": [
+                80
+            ]
+        },
+        {
+            "name": "won",
+            "ranking": [
+                81
+            ]
+        },
+        {
+            "name": "Yuan Yewon",
+            "ranking": [
+                82
+            ]
+        },
+        {
+            "name": "Joe Young",
+            "ranking": [
+                83
+            ]
+        },
+        {
+            "name": "AYANA SHINOZAKI",
+            "ranking": [
+                84
+            ]
+        },
+        {
+            "name": "Chanju Park",
+            "ranking": [
+                85
+            ]
+        },
+        {
+            "name": "Yu Young-young",
+            "ranking": [
+                86
+            ]
+        },
+        {
+            "name": "least",
+            "ranking": [
+                87
+            ]
+        },
+        {
+            "name": "Alex Christine",
+            "ranking": [
+                88
+            ]
+        },
+        {
+            "name": "love",
+            "ranking": [
+                89
+            ]
+        },
+        {
+            "name": "",
+            "ranking": [
+                90
+            ]
+        },
+        {
+            "name": "Cheongnyang",
+            "ranking": [
+                91
+            ]
+        },
+        {
+            "name": "Wang Qiu",
+            "ranking": [
+                92
+            ]
+        },
+        {
+            "name": "Uemura Azusa",
+            "ranking": [
+                93
+            ]
+        },
+        {
+            "name": "Umeyama Kokona",
+            "ranking": [
+                94
+            ]
+        },
+        {
+            "name": "hands",
+            "ranking": [
+                95
+            ]
+        },
+        {
+            "name": "This season",
+            "ranking": [
+                96
+            ]
+        },
+        {
+            "name": "Lee Xian",
+            "ranking": [
+                97
+            ]
+        },
+        {
+            "name": "Nago",
+            "ranking": [
+                98
+            ]
+        },
+        {
+            "name": "Miyawaki Sakura",
+            "ranking": [
+                99
+            ]
+        },
+        {
+            "name": "Kim Si-hyun",
+            "ranking": [
+                100
+            ]
+        },
+        {
+            "name": "Kim Chae Won",
+            "ranking": [
+                101
+            ]
+        }
+    ]
+}
